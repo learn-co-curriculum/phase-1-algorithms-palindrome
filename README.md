@@ -61,8 +61,8 @@ submit the lab.
 
 ## Conclusion
 
-In the next lesson, we'll review some solutions to this problem and talk through
-how to apply the problem solving process to this exercise. Take your time with
-this, and give it your best effort before reviewing the solution — it's ok if
-you don't end up with a working solution on the first try, so long as you make a
-deliberate effort at developing your problem solving process!
+In the next two lessons, we'll review some solutions to this problem and talk
+through how to apply the problem solving process to this exercise. Take your
+time with this, and give it your best effort before reviewing the solution —
+it's ok if you don't end up with a working solution on the first try, so long as
+you make a deliberate effort at developing your problem solving process!
