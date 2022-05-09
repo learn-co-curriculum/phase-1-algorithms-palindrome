@@ -1,5 +1,8 @@
 function isPalindrome(word) {
   // Write your algorithm here
+  let newWord = word.toLowerCase();
+  let newWordRevevse = newWord.split("").reverse().join("");
+  return newWord === newWordRevevse;
 }
 
 /* 
