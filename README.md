@@ -56,8 +56,8 @@ For this exercise, you can use Google to look up syntax and any methods you
 might need to help solve this problem (note that not all interviewers will allow
 candidates to look up syntax, but some will).
 
-When you're satisfied with your code, run `learn test` to run the tests and
-submit the lab.
+When you're satisfied with your code, run `npm test` to run the tests and
+submit the lab using CodeGrade.
 
 ## Conclusion
 
